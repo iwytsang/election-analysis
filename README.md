@@ -20,7 +20,7 @@ Denver county had 306,055 votes which was 82.8% of the total votes.\
 Arapahoe county had 24,801 votes which was 6.7% of the total votes.
 
 
-* Which county had the largest number of votes?\\
+* Which county had the largest number of votes?\
 Denver had the largest number with 306,055 votes.
 
 
