@@ -3,7 +3,7 @@
 ## Overview of Election Audit
 
 ### Purpose
-The purpose of the analysis is to assist Tom and his manager Seth, both Colorado board of elections employees, in an election audit of results.
+The purpose of the analysis is to assist Tom and his manager Seth, both Colorado board of elections employees, in an election audit of results. In addition to the breakdown of the results by candidate name, number of votes, and percentage of votes, the election commission also requested some additional data to complete the audit which included the voter turnout for each county, the percentage of votes for each county, as well as the county with the highest turnout.
 
 
 ## Election-Audit Results
