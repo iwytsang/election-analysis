@@ -13,7 +13,7 @@ Once the python script was run, the results were saved onto the election_analysi
 
 * How many votes were cast in this congressional election?
 
-369,711 votes were cast in this congressional election.
+  369,711 votes were cast in this congressional election.
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
@@ -24,7 +24,7 @@ Once the python script was run, the results were saved onto the election_analysi
 
 * Which county had the largest number of votes?
 
-Denver had the largest number with 306,055 votes.
+  Denver had the largest number of votes with 306,055.
 
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
@@ -35,7 +35,7 @@ Raymon Anthony Doane: 3.1% (11,606)
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-From the results, we can conclude that the candidate that won the election was Diana DeGette. Her winning vote count was 272,892 votes and the percentage of total votes was 73.8%.
+  From the results, we can conclude that the candidate that won the election was Diana DeGette. Her winning vote count was 272,892 votes and the percentage of total votes was 73.8%.
 
 
 ## Election-Audit Summary
