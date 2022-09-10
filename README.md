@@ -41,6 +41,6 @@ From the results above, we can answer the following questions about the election
 
 
 ## Election-Audit Summary
-The script can be used for any other election in order to count the candidates, total number of votes, percentage of votes.
+The Python script we've created is a great tool that can be used for any other elections in order to count the number of candidates, total number of votes, percentage of votes, and then output the results onto a separate text file.
 To use it for other elections that have more candidates, we could modify the script to only print out the name, number of votes, and percentage of votes for the top 3 candidates in the election. We could also print out the top 3 counties with the most voter turnouts. 
 
