@@ -7,12 +7,13 @@ The purpose of the analysis is to assist Tom and his manager Seth, both Colorado
 
 
 
-## Election-Audit Results!
+## Election-Audit Results
+Once the script was run, the results were saved onto the election_analysis.txt file as shown below.
 
 ![image](https://user-images.githubusercontent.com/108503112/189497025-df0ee755-7ab4-4218-b9d0-314588ba160b.png)
 
 * How many votes were cast in this congressional election?
-
+369,711 votes were cast in this congressional election.
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
