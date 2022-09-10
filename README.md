@@ -13,7 +13,7 @@ Once the python script was run, we were able to analyze the results from the ele
 
 From the results above, we can answer the following questions about the election:
 
-* How many votes were cast in this congressional election?
+* **How many votes were cast in this congressional election?**
 
   369,711 votes were cast in this congressional election.
 
