@@ -17,25 +17,25 @@ From the results above, we can answer the following questions about the election
 
   369,711 votes were cast in this congressional election.
 
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+* **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
 
   Jefferson county had 38,855 votes which was 10.5% of the total votes.\
   Denver county had 306,055 votes which was 82.8% of the total votes.\
   Arapahoe county had 24,801 votes which was 6.7% of the total votes.
 
 
-* Which county had the largest number of votes?
+* **Which county had the largest number of votes?**
 
   Denver had the largest number of votes with 306,055.
 
 
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+* **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
 
   Charles Casper Stockham had  85,213 votes which was 23.0% of the total votes.\
   Diana DeGette had 272,892 votes which was 73.8% of the total votes.\
   Raymon Anthony Doane had 11,606 votes which was 3.1% of the total votes.
 
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+* **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
 
   From the results, we can conclude that the candidate that won the election was Diana DeGette. Her winning vote count was 272,892 votes and the percentage of total votes was 73.8%.
 
