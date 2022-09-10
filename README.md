@@ -14,6 +14,7 @@ How many votes were cast in this congressional election?
 
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
+![image](https://user-images.githubusercontent.com/108503112/189464902-a53be435-1234-4f74-b5f7-0a85a1356fea.png)
 
 Which county had the largest number of votes?
 
@@ -22,8 +23,12 @@ Which county had the largest number of votes?
 
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
+![image](https://user-images.githubusercontent.com/108503112/189464909-19810edc-bbae-4ec3-b006-6538d1ffc8f4.png)
+
 
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+![image](https://user-images.githubusercontent.com/108503112/189464993-86dfd3f6-36e4-46d2-8938-686c53aa74a1.png)
 
 
 ## Election-Audit Summary
