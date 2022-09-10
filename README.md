@@ -29,9 +29,9 @@ Once the python script was run, we were able to analyze the results from the ele
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-Charles Casper Stockham: 23.0% (85,213)\
-Diana DeGette: 73.8% (272,892)\
-Raymon Anthony Doane: 3.1% (11,606)
+  Charles Casper Stockham had  85,213 votes which was 23.0% of the total votes.\
+  Diana DeGette had 272,892 votes which was 73.8% of the total votes.\
+  Raymon Anthony Doane had 11,606 votes which was 3.1% of the total votes.
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
