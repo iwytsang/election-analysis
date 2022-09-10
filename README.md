@@ -11,18 +11,18 @@ Once the python script was run, the results were saved onto the election_analysi
 
 ![image](https://user-images.githubusercontent.com/108503112/189497025-df0ee755-7ab4-4218-b9d0-314588ba160b.png)
 
-* How many votes were cast in this congressional election?
+* How many votes were cast in this congressional election?\
 369,711 votes were cast in this congressional election.
 
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.\
 
-The breakdown is as follows:
-Jefferson county had 38,855 votes which was 10.5% of the total votes.
-Denver county had 306,055 votes which was 82.8% of the total votes.
+The breakdown is as follows:\
+Jefferson county had 38,855 votes which was 10.5% of the total votes.\
+Denver county had 306,055 votes which was 82.8% of the total votes.\
 Arapahoe county had 24,801 votes which was 6.7% of the total votes.
 
 
-* Which county had the largest number of votes?
+* Which county had the largest number of votes?\
 Denver
 
 
