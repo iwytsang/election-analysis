@@ -6,9 +6,8 @@
 The purpose of the analysis is to assist Tom and his manager Seth, both Colorado board of elections employees, in an election audit of results.
 
 
-
 ## Election-Audit Results
-Once the script was run, the results were saved onto the election_analysis.txt file as shown below.
+Once the python script was run, the results were saved onto the election_analysis.txt file as shown below.
 
 ![image](https://user-images.githubusercontent.com/108503112/189497025-df0ee755-7ab4-4218-b9d0-314588ba160b.png)
 
@@ -17,20 +16,29 @@ Once the script was run, the results were saved onto the election_analysis.txt f
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
+The breakdown is as follows:
+Jefferson county had 38,855 votes which was 10.5% of the total votes.
+Denver county had 306,055 votes which was 82.8% of the total votes.
+Arapahoe county had 24,801 votes which was 6.7% of the total votes.
 
 
 * Which county had the largest number of votes?
-
+Denver
 
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
 
 
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
 
 
 ## Election-Audit Summary
