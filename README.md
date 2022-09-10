@@ -10,13 +10,14 @@ The purpose of the analysis is to assist Tom and his manager Seth, both Colorado
 ## Election-Audit Results
 How many votes were cast in this congressional election?
 
-![Total_Votes_Number](https://user-images.githubusercontent.com/108503112/189464273-1145d00d-372a-4c56-afc7-e557fafbb61e.png)
-
+![Total_Votes](https://user-images.githubusercontent.com/108503112/189464431-1e1af0df-1e1b-4003-af7b-69b4e21ac46e.png)
 
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
 
 Which county had the largest number of votes?
+
+![image](https://user-images.githubusercontent.com/108503112/189464441-7203f3ae-87af-41d1-bf96-2d8198101d6d.png)
 
 
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
