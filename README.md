@@ -9,7 +9,7 @@ The purpose of the analysis is to assist Tom and his manager Seth, both Colorado
 
 ## Election-Audit Results!
 
-[image](https://user-images.githubusercontent.com/108503112/189497011-3961b66b-b4e0-41a4-b592-92a1930cb824.png)
+![image](https://user-images.githubusercontent.com/108503112/189497025-df0ee755-7ab4-4218-b9d0-314588ba160b.png)
 
 * How many votes were cast in this congressional election?
 
