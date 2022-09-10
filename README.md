@@ -41,6 +41,9 @@ From the results above, we can answer the following questions about the election
 
 
 ## Election-Audit Summary
-The Python script that was created to report our U.S. congressional election results is also a great tool that can be used for any other election results in order to count the number of candidates, total number of votes, percentage of votes, and then output the results onto a separate text file.
-To use it for other elections that have more candidates, we could modify the script to only print out the name, number of votes, and percentage of votes for the top 3 candidates in the election. We could also print out the top 3 counties with the most voter turnouts. 
+The Python script that was created to report our U.S. congressional election results is a great tool that can be used for any other election results to count the number of candidates, total number of votes, percentage of votes, and then output the results onto a separate text file. It can also be used to provide a breakdown of the number of votes per county, percentage of total votes for each county, and declare which of the counties had the largest number of votes.
+
+In this particular election, there were only 3 different candidates and 3 different counties. An example of how the script could be modified to use it for other larger-scale elections that have more candidates is that we could change the script to only print out the name, number of votes, and percentage of votes for the top 3 candidates that received the most votes in the election.
+
+Another example of how we could modify the script is that we could also only print out the top 3 counties with the most voter turnouts, their number of votes, and percentage of votes per county. 
 
